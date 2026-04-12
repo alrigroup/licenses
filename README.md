@@ -53,7 +53,7 @@ We provide three distinct licensing models to balance developer freedom with ins
 ## 📞 Contact & Authorizations
 
 Do you need a commercial license or permission to modify a restricted project?
-- **Organization:** [github.com/alrigroup/about](https://github.com/alrigroup/)
+- **Organization:** [github.com/alrigroup/](https://github.com/alrigroup/)
 
 ---
 *Standardized Legal & Technical Documentation for the ARGL (ALRI Group Licenses).*
