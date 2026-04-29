@@ -3,8 +3,8 @@
 Welcome to the official licensing hub of [ALRI Group](https://github.com/alrigroup/). This repository defines the usage, modification, and distribution guidelines for all software and projects managed by the group.
 
 > **Created by:** [ALRI Group](https://github.com/alrigroup/)  
-> **Initial Release:** April 2026  
-> **Copyright:** © 2026 [ALRI Group](https://github.com/alrigroup/). All rights reserved.
+> **First Version:** November 2022  
+> **Copyright:** © 2022 [ALRI Group](https://github.com/alrigroup/). All rights reserved.
 
 ---
 
